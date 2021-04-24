@@ -1,3 +1,7 @@
+// Author: Aslam Khan
+// Email : aslamkhanofficial@yahoo.com
+// Institute : Air University Islamabad
+
 #include<iostream>
 using namespace std;
 
